@@ -1,7 +1,7 @@
 ---
 title: Web Design Trends in 2025
-date: 2024-12-07
-draft: false
+date: 2024-12-08
+draft: true
 tags: []
 ---
 Here are five notable web design trends projected for 2025, reflecting advancements in technology and user preferences:
