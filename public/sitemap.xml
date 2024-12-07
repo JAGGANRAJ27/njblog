@@ -4,49 +4,49 @@
     
         
         <url>
-            <loc>https://example.org/posts/basics-of-html/</loc>
+            <loc>/posts/basics-of-html/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.org/tags/html/</loc>
+            <loc>/tags/html/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.org/</loc>
+            <loc>/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.org/posts/</loc>
+            <loc>/posts/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.org/tags/</loc>
+            <loc>/tags/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.org/tags/webdesign/</loc>
+            <loc>/tags/webdesign/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.org/categories/</loc>
+            <loc>/categories/</loc>
         </url>
         
     
