@@ -1,4 +1,9 @@
-baseURL = 'https://njblog.njwebdesigning.in/'
+# Existing settings
+baseURL = 'https://njblog.njwebdesigning.in/' 
 languageCode = 'en-us'
 title = 'NJ Blogs'
 theme = "hugo-theme-console"
+
+# New settings for scheduling
+buildDrafts = true       # Include drafts during local testing
+buildFuture = false      # Do not publish future-dated posts
