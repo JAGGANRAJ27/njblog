@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NJ Blogs</title>
-    <link>https://example.org/</link>
+    <link>/</link>
     <description>Recent content on NJ Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with the Basics of HTML</title>
-      <link>https://example.org/posts/basics-of-html/</link>
+      <link>/posts/basics-of-html/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/basics-of-html/</guid>
+      <guid>/posts/basics-of-html/</guid>
       <description>&lt;p&gt;HTML, or HyperText Markup Language, is the backbone of the web, forming the structure of nearly every website you visit. It allows developers to create the framework of a webpage by defining elements like headings, paragraphs, links, and images. If you’re new to web development, understanding HTML is the first step toward building your own websites.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-html&#34;&gt;What is HTML?&lt;/h3&gt;&#xA;&lt;p&gt;HTML is a markup language that uses &lt;strong&gt;tags&lt;/strong&gt; to define elements on a webpage. These tags are enclosed in angle brackets (&lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt;) and usually come in pairs: an opening tag (e.g., &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;) and a closing tag (e.g., &lt;code&gt;&amp;lt;/p&amp;gt;&lt;/code&gt;). Everything between these tags is the content.&lt;/p&gt;</description>
     </item>
   </channel>

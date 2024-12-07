@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NJ Blogs</title>
-    <link>https://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on NJ Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML</title>
-      <link>https://example.org/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Webdesign</title>
-      <link>https://example.org/tags/webdesign/</link>
+      <link>/tags/webdesign/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/webdesign/</guid>
+      <guid>/tags/webdesign/</guid>
       <description></description>
     </item>
   </channel>
