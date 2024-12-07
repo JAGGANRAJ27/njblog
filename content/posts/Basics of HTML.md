@@ -6,7 +6,7 @@ tags:
   - HTML
   - Webdesign
 ---
-  HTML, or HyperText Markup Language, is the backbone of the web, forming the structure of nearly every website you visit. It allows developers to create the framework of a webpage by defining elements like headings, paragraphs, links, and images. If you’re new to web development, understanding HTML is the first step toward building your own websites.  
+HTML, or HyperText Markup Language, is the backbone of the web, forming the structure of nearly every website you visit. It allows developers to create the framework of a webpage by defining elements like headings, paragraphs, links, and images. If you’re new to web development, understanding HTML is the first step toward building your own websites.  
 
 ### What is HTML?  
 HTML is a markup language that uses **tags** to define elements on a webpage. These tags are enclosed in angle brackets (`<>`) and usually come in pairs: an opening tag (e.g., `<p>`) and a closing tag (e.g., `</p>`). Everything between these tags is the content.  
