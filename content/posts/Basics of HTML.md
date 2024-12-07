@@ -43,4 +43,4 @@ Here’s a simple example of an HTML document:
 HTML is simple yet powerful. By mastering its basics, you’ll gain the skills to design the structure of web pages. Once comfortable, you can move on to CSS for styling and JavaScript for interactivity, creating dynamic and visually appealing websites. Start experimenting today and bring your ideas to life!  
 
 By NJWEBDESIGNING
-![[mrnj.jpg]]
+!![Image Description](/images/Pasted%20image%2020241207100056.png)
