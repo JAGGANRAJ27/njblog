@@ -4,20 +4,6 @@
     
         
         <url>
-            <loc>https://njblog.njwebdesigning.in/</loc>
-            <lastmod>2024-12-10T08:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://njblog.njwebdesigning.in/posts/</loc>
-            <lastmod>2024-12-10T08:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://njblog.njwebdesigning.in/posts/basics-of-html/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
@@ -26,6 +12,20 @@
         
         <url>
             <loc>https://njblog.njwebdesigning.in/tags/html/</loc>
+            <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://njblog.njwebdesigning.in/</loc>
+            <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://njblog.njwebdesigning.in/posts/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
         </url>
         
@@ -41,6 +41,13 @@
         <url>
             <loc>https://njblog.njwebdesigning.in/tags/webdesign/</loc>
             <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://njblog.njwebdesigning.in/posts/draft-post/</loc>
+            <lastmod>2024-12-06T08:00:00+00:00</lastmod>
         </url>
         
     
