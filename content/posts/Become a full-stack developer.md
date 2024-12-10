@@ -8,6 +8,7 @@ tags:
   - Webdesign
 ---
 
+
 # Fundamentals
 **Programming Basics:** Learn a programming language like JavaScript (highly recommended for full stack).
 **Version Control:** Master Git and GitHub for code management and collaboration.
