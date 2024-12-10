@@ -6,8 +6,15 @@
     <description>Recent content in Posts on NJ Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://njblog.njwebdesigning.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Become a full-stack developer</title>
+      <link>https://njblog.njwebdesigning.in/posts/become-a-full-stack-developer/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://njblog.njwebdesigning.in/posts/become-a-full-stack-developer/</guid>
+      <description>&lt;h1 id=&#34;fundamentals&#34;&gt;Fundamentals&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programming Basics:&lt;/strong&gt; Learn a programming language like JavaScript (highly recommended for full stack).&#xA;&lt;strong&gt;Version Control:&lt;/strong&gt; Master Git and GitHub for code management and collaboration.&#xA;Problem-Solving Skills: Practice algorithms and data structures.&lt;/p&gt;&#xA;&lt;h1 id=&#34;frontend-development&#34;&gt;Frontend Development&lt;/h1&gt;&#xA;&lt;p&gt;Learn how to create the visual part of websites that users interact with.&lt;/p&gt;&#xA;&lt;p&gt;Core Skills:&#xA;&lt;strong&gt;HTML, CSS, JavaScript:&lt;/strong&gt; Build the structure, style, and interactivity of web pages.&#xA;&lt;strong&gt;Responsive Design:&lt;/strong&gt; Learn CSS frameworks like Bootstrap or Tailwind CSS.&#xA;&lt;strong&gt;Modern JavaScript Frameworks/Libraries: Choose one&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Web Design Trends in 2025</title>
       <link>https://njblog.njwebdesigning.in/posts/web-design-trends-in-2025/</link>

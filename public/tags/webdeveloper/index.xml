@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webdesign on NJ Blogs</title>
-    <link>https://njblog.njwebdesigning.in/tags/webdesign/</link>
-    <description>Recent content in Webdesign on NJ Blogs</description>
+    <title>Webdeveloper on NJ Blogs</title>
+    <link>https://njblog.njwebdesigning.in/tags/webdeveloper/</link>
+    <description>Recent content in Webdeveloper on NJ Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://njblog.njwebdesigning.in/tags/webdesign/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://njblog.njwebdesigning.in/tags/webdeveloper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Become a full-stack developer</title>
       <link>https://njblog.njwebdesigning.in/posts/become-a-full-stack-developer/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://njblog.njwebdesigning.in/posts/become-a-full-stack-developer/</guid>
       <description>&lt;h1 id=&#34;fundamentals&#34;&gt;Fundamentals&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programming Basics:&lt;/strong&gt; Learn a programming language like JavaScript (highly recommended for full stack).&#xA;&lt;strong&gt;Version Control:&lt;/strong&gt; Master Git and GitHub for code management and collaboration.&#xA;Problem-Solving Skills: Practice algorithms and data structures.&lt;/p&gt;&#xA;&lt;h1 id=&#34;frontend-development&#34;&gt;Frontend Development&lt;/h1&gt;&#xA;&lt;p&gt;Learn how to create the visual part of websites that users interact with.&lt;/p&gt;&#xA;&lt;p&gt;Core Skills:&#xA;&lt;strong&gt;HTML, CSS, JavaScript:&lt;/strong&gt; Build the structure, style, and interactivity of web pages.&#xA;&lt;strong&gt;Responsive Design:&lt;/strong&gt; Learn CSS frameworks like Bootstrap or Tailwind CSS.&#xA;&lt;strong&gt;Modern JavaScript Frameworks/Libraries: Choose one&lt;/strong&gt;:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Getting Started with the Basics of HTML</title>
-      <link>https://njblog.njwebdesigning.in/posts/basics-of-html/</link>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://njblog.njwebdesigning.in/posts/basics-of-html/</guid>
-      <description>&lt;p&gt;HTML, or HyperText Markup Language, is the backbone of the web, forming the structure of nearly every website you visit. It allows developers to create the framework of a webpage by defining elements like headings, paragraphs, links, and images. If you’re new to web development, understanding HTML is the first step toward building your own websites.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-html&#34;&gt;What is HTML?&lt;/h3&gt;&#xA;&lt;p&gt;HTML is a markup language that uses &lt;strong&gt;tags&lt;/strong&gt; to define elements on a webpage. These tags are enclosed in angle brackets (&lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt;) and usually come in pairs: an opening tag (e.g., &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;) and a closing tag (e.g., &lt;code&gt;&amp;lt;/p&amp;gt;&lt;/code&gt;). Everything between these tags is the content.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
